@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Container, Row, Col, Card, Button, Form, Badge, ProgressBar, Alert } from "react-bootstrap";
-import './event.css';
+import './Event.css';
 
 const ProductShowcase = () => {
     const [searchQuery, setSearchQuery] = useState("");
